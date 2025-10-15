@@ -26,7 +26,7 @@ public class PlayerRunner : MonoBehaviour
     void FixedUpdate()
     {
         // constant forward velocity; keep current vertical speed
-        rb.velocity = new Vector2(forwardSpeed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(forwardSpeed, rb.linearVelocity.y);
     }
 
     void Flip()
@@ -35,7 +35,7 @@ public class PlayerRunner : MonoBehaviour
         rb.gravityScale = baseGravityScale * gravitySign;
 
         // snap vertical speed, then nudge toward the new "ground"
-        rb.velocity = new Vector2(rb.velocity.x, 0f);
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
         rb.AddForce(Vector2.up * flipImpulse * gravitySign, ForceMode2D.Impulse);
     }
 }
