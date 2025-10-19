@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Coin
+  - Ground
+  - Kill
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Foreground
+  - Background
+  - Ground
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1662696203
+    locked: 0
+  - name: Platforms
+    uniqueID: 3352195769
+    locked: 0
+  - name: Character
+    uniqueID: 1710393361
+    locked: 0
+  - name: UI
+    uniqueID: 421163865
+    locked: 0
+  m_RenderingLayers:
+  - Default
