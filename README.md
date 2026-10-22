@@ -1,4 +1,4 @@
-📘 Gravity Guy – Final Project
+# Gravity Guy
 
 ![Gameplay](screenshot.png)
 
