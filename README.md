@@ -1,5 +1,8 @@
 📘 Gravity Guy – Final Project
 
+![Gameplay](screenshot.png)
+
+
 A 2D Gravity Flip / Gravity Guy clone by Eden Bager.
 The player runs forward automatically and flips gravity to avoid spikes and gaps.
 Survive as long as possible — speed and difficulty increase over time.
