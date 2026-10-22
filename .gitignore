@@ -12,3 +12,6 @@ Assets/AssetStoreTools*
 *.sln
 *.user
 *.pidb
+
+# Unity user-specific settings
+UserSettings/
