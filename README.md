@@ -13,7 +13,7 @@ Survive as long as possible — speed and difficulty increase over time.
 	•	Score & high score saved (PlayerPrefs).
 	•	Game Manager singleton for Menu / Game / GameOver states.
 	•	UI: Score, Help, Retry/Menu panels (TextMeshPro).
-	•	Background music, flip & hit SFX.
+	•	Music and sound-effect hooks (audio files not included).
 	•	Smooth camera follow.
 
 🧩 Scenes
