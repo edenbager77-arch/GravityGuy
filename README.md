@@ -30,3 +30,5 @@ Survive as long as possible — speed and difficulty increase over time.
 	•	File → Build Settings → Add both scenes (MainMenu, Game).
 	•	Platform:Mac & Android Standalone.
 	•	Click Build and Run.
+
+Audio assets are not included in this repo.
